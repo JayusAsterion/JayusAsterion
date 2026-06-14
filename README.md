@@ -26,6 +26,7 @@ A creative web app that turns hand gestures into music using webcam tracking, We
 ### 🤖 AI Review Copilot
 A local-first code review assistant designed to help developers generate PR feedback, analyze diffs, review files, and create structured technical comments.
 
+- Live demo: https://ai-review-copilot.vercel.app/review
 - Repository: https://github.com/JayusAsterion/ai-review-copilot
 
 ### 🖤 Inkside Antigua
